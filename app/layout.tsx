@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Maison Privée — Exceptional Dining. Entirely Yours.',
+  title: 'MR.Swais — Exceptional Dining. Entirely Yours.',
   description: 'A private chef service in Geneva for exceptional dining, entirely yours.',
   generator: 'v0.app',
   icons: {
